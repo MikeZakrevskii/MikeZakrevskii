@@ -14,6 +14,6 @@ Tested an integration with an external payment module (SBERPAY)
 
 Fun facts: I speak Russian (Native), English (C1), and German (C1). Before QA I was making short films and editorial fashion photoshoots
 
-## Stack: 
+## Stack
 
 Allure TestOps, Jira, Postman, Swagger, DBeaver, PostgresQL, Figma, DevTools, Kibana, REST, SOAP, Git, Kubernetes, Charles Proxy, Proxyman, Android Studio
