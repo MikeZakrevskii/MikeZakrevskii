@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MikeZakrevskii/MikeZakrevskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mike and I am a Software QA Engineer from Russia. You are welcome to check out my resume: (Rus) (Eng)
 
-Here are some ideas to get you started:
+## A Few Quick Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in manual testing: API / UI / Mobile
+Developed regression test-suites and smoke-checklists for a large e-commerce platform (X5 Retail)
+Designed a transability matrix, supervised monitoring over test coverage of business requirements
+Tested an integration with an external payment module (SBERPAY)
+Fun facts: I speak Russian (Native), English (C1), and German (C1). Before QA I was making short films and editorial fashion photoshoots.
+
+## Stack: 
+
+Allure TestOps, Jira, Postman, Swagger, DBeaver, PostgresQL, Figma, DevTools, Kibana, REST. SOAP, Git, Kubernetes, Charles Proxy, Proxyman, Android Studio.
