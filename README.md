@@ -8,7 +8,7 @@ Skilled in manual testing: API / UI / Mobile
 
 Developed regression test-suites and smoke-checklists for a large e-commerce platform (X5 Retail)
 
-Designed a transability matrix, supervised monitoring over test coverage of business requirements
+Designed a transability matrix, conducted monitoring over test coverage of business requirements
 
 Tested an integration with an external payment module (SBERPAY)
 
