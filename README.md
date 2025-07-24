@@ -4,7 +4,7 @@ My name is Mike and I am a Software QA Engineer from Russia. You are welcome to 
 
 ## A Few Quick Facts
 
-• Skilled in manual testing: API / UI / Mobile
+• I've been a Software QA Engineer for almost 4 years. Skilled in manual testing: API / UI / Mobile. I’m currently learning test automation with Playwright and Selenium
 
 • Developed regression test suites and smoke checklists for a large e-commerce platform (X5 Retail)
 
