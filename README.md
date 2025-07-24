@@ -12,7 +12,7 @@ My name is Mike and I am a Software QA Engineer from Russia. You are welcome to 
 
 • Tested an integration with an external payment module (SBERPAY)
 
-Fun facts: I speak Russian (Native), English (C1), and German (C1). Before QA I was making short films and editorial fashion photoshoots
+Fun facts: I speak Russian (Native), English (C1), and German (C1). Before QA I was making short films, music videos and editorial fashion photoshoots
 
 ## Stack
 
