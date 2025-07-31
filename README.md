@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Mike and I am a Software QA Engineer from Russia. You are welcome to check out my resume: (Rus) (Eng)
-
+ 
 ## A Few Quick Facts
 
 • I've been a Software QA Engineer for almost 4 years. Skilled in manual testing: API / UI / Mobile. I’m currently learning test automation with Playwright and Selenium
